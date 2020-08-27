@@ -48,6 +48,8 @@ const DashboardLayout = () => {
         <div className={classes.contentContainer}>
           <div className={classes.content}>
             <Outlet />
+
+𝕭𝖆𝖐𝖚𝖑𝖆𝖓
           </div>
         </div>
       </div>
